@@ -11,7 +11,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Objective | Associated Project|
 |-----------------------------------------------|------|---------------------|
-| SIEM Implementation and Log Analysis          || <a href="https://google.com">Detection Lab</a>|
+| Network Management and Traffic Capturing        |Gained hands-on experience in configuring networks, capturing traffic, and analyzing packets. Working with both Linux and Windows environments, I have set up network configurations, use tcpdump to capture traffic, and analyze packets with Wireshark.| <a href="https://github.com/Mohammad-Firdhaus-Baharom/Network-Management-and-Traffic-Capturing">Network Management and Traffic Capturing</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Boundary Controls |Gained hands-on experience deploying essential tools and techniques to bolster network and device security. Explored a range of boundary controls including deterrent, preventive, and detective measures to enhance systems' resilience against potential threats. Learned server-hardening techniques, use Linux built-in firewall (iptables) to regulate traffic flow, and shield servers from common attacks.| <a href="https://github.com/Mohammad-Firdhaus-Baharom/Boundary-Controls-Lab">Boundary Controls Lab</a>| 
 | Collecting Digital Evidence | <a href="https://github.com/Mohammad-Firdhaus-Baharom/Collecting-Digital-Evidence-Lab">Collecting Digital Evidence Lab</a>| 
