@@ -21,7 +21,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Reviewing System Logs | <a href="https://github.com/Mohammad-Firdhaus-Baharom/System-Log-Analysis-Lab">System Log Analysis Lab</a>| 
-| Collecting Digital Evidence | <a href="https://github.com/Mohammad-Firdhaus-Baharom/Collecting-Digital-Evidence-Lab">System Log Analysis Lab</a>| 
+| Collecting Digital Evidence | <a href="https://github.com/Mohammad-Firdhaus-Baharom/Collecting-Digital-Evidence-Lab">Collecting Digital Evidence Lab</a>| 
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
