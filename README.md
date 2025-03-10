@@ -13,11 +13,11 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Skill                                         | Objective | Associated Project|
+|-----------------------------------------------|------|---------------------|
+| SIEM Implementation and Log Analysis          || <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Boundary Controls | <a href="https://github.com/Mohammad-Firdhaus-Baharom/Boundary-Controls-Lab">Boundary Controls Lab</a>| 
+| Boundary Controls |Gained hands-on experience deploying essential tools and techniques to bolster network and device security. Explored a range of boundary controls including deterrent, preventive, and detective measures to enhance systems' resilience against potential threats. Learned server-hardening techniques, use Linux built-in firewall (iptables) to regulate traffic flow, and shield servers from common attacks.| <a href="https://github.com/Mohammad-Firdhaus-Baharom/Boundary-Controls-Lab">Boundary Controls Lab</a>| 
 | Collecting Digital Evidence | <a href="https://github.com/Mohammad-Firdhaus-Baharom/Collecting-Digital-Evidence-Lab">Collecting Digital Evidence Lab</a>| 
 | Collecting Digital Evidence | <a href="https://github.com/Mohammad-Firdhaus-Baharom/Collecting-Digital-Evidence-Lab">Collecting Digital Evidence Lab</a>| 
 | Reviewing System Logs | <a href="https://github.com/Mohammad-Firdhaus-Baharom/System-Log-Analysis-Lab">System Log Analysis Lab</a>| 
