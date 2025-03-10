@@ -1,13 +1,22 @@
 # Hello, I'm Mohammad Firdhaus
 <a href="https://www.linkedin.com/in/firdhausbaharom/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
-
-## Objective
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+Results-driven Program Manager with extensive experience in IT project management, grant administration, stakeholder engagement, and compliance management across public sector organizations. Skilled in designing processes, managing budgets, and coordinating strategic initiatives to achieve organizational goals. Adept at working independently and collaboratively in fast-paced environments. Recently completed a cybersecurity bootcamp to enhance expertise in risk management, governance, and security frameworks, complementing strong operational and compliance skills. Looking to leverage new skills for career transition into cyber security. 
 
 ## Skills
-
+Network analysis and mapping – Wireshark & Nmap 
+Risk analysis and management
+Intrusion detection
+Data encryption	
+Incident response
+Operating systems–Linux, Ubuntu, Kali, Windows
+Malware analysis
+Cloud security
+Critical and analytical thinking
+Communication and collaboration
+Cross-functional collaboration	
+Stakeholder Management
+Vendor Management	
 
 | Skill                                         | Objective | Associated Project|
 |-----------------------------------------------|------|---------------------|
