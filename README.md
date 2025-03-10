@@ -36,8 +36,8 @@ Results-driven Program Manager with extensive experience in IT project managemen
 ### Operating Systems
 <div>
     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=Kali+Linux&logoColor=FFFFFF" />
+    <img src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white" />
 </div>
 
 ### Network
