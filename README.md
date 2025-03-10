@@ -22,7 +22,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Collecting Digital Evidence | <a href="https://github.com/Mohammad-Firdhaus-Baharom/Collecting-Digital-Evidence-Lab">Collecting Digital Evidence Lab</a>| 
 | Reviewing System Logs | <a href="https://github.com/Mohammad-Firdhaus-Baharom/System-Log-Analysis-Lab">System Log Analysis Lab</a>| 
 | Collecting Digital Evidence | <a href="https://github.com/Mohammad-Firdhaus-Baharom/Collecting-Digital-Evidence-Lab">Collecting Digital Evidence Lab</a>| 
-| Shell Scripting | <a href="https://github.com/Mohammad-Firdhaus-Baharom/Collecting-Digital-Evidence-Lab">Collecting Digital Evidence Lab</a>| 
+| Shell Scripting | <a href="https://github.com/Mohammad-Firdhaus-Baharom/Collecting-Digital-Evidence-Lab">Shell Scripting Lab</a>| 
 | Collecting Digital Evidence | <a href="https://github.com/Mohammad-Firdhaus-Baharom/Shell-Scripting-Lab/blob/main/README.md">Shell Scripting Lab</a>| 
 | Collecting Digital Evidence | <a href="https://github.com/Mohammad-Firdhaus-Baharom/Collecting-Digital-Evidence-Lab">Collecting Digital Evidence Lab</a>| 
 
