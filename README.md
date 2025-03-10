@@ -20,7 +20,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
-| Reviewing System Logs | <a href="https://github.com/Mohammad-Firdhaus-Baharom/Linux-Log-Files-Exploration-Lab-">Linux Log Files Exploration Lab</a>| 
+| Reviewing System Logs | <a href="https://github.com/Mohammad-Firdhaus-Baharom/Linux-Log-Files-Exploration-Lab-">Linux Log Files Exploration Lab</a>||XXX |  
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
