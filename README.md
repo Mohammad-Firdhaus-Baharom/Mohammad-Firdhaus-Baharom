@@ -4,20 +4,21 @@
 Results-driven Program Manager with extensive experience in IT project management, grant administration, stakeholder engagement, and compliance management across public sector organizations. Skilled in designing processes, managing budgets, and coordinating strategic initiatives to achieve organizational goals. Adept at working independently and collaboratively in fast-paced environments. Recently completed a cybersecurity bootcamp to enhance expertise in risk management, governance, and security frameworks, complementing strong operational and compliance skills. Looking to leverage new skills for career transition into cyber security. 
 
 ## Skills
-Network analysis and mapping – Wireshark & Nmap 
-Risk analysis and management
-Intrusion detection
-Data encryption	
-Incident response
-Operating systems–Linux, Ubuntu, Kali, Windows
-Malware analysis
-Cloud security
-Critical and analytical thinking
-Communication and collaboration
-Cross-functional collaboration	
-Stakeholder Management
-Vendor Management	
+- Network analysis and mapping – Wireshark & Nmap
+- Risk analysis and management
+- Intrusion detection
+- Data encryption
+- Incident response
+- Operating systems–Linux, Ubuntu, Kali, Windows
+- Malware analysis
+- Cloud security
+- Critical and analytical thinking
+- Communication and collaboration
+- Cross-functional collaboration	
+- Stakeholder Management
+- Vendor Management	
 
+## Cybersecurity Labwork
 | Skill                                         | Objective | Associated Project|
 |-----------------------------------------------|------|---------------------|
 | Network Management and Traffic Capturing        |Gained hands-on experience in configuring networks, capturing traffic, and analyzing packets. Working with both Linux and Windows environments, I have set up network configurations, use tcpdump to capture traffic, and analyze packets with Wireshark.| <a href="https://github.com/Mohammad-Firdhaus-Baharom/Network-Management-and-Traffic-Capturing">Network Management and Traffic Capturing</a>|
@@ -32,7 +33,8 @@ Vendor Management
 | Collecting Digital Evidence | <a href="https://github.com/Mohammad-Firdhaus-Baharom/Collecting-Digital-Evidence-Lab">Collecting Digital Evidence Lab</a>| 
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+### Operating Systems
+
 
 ### Network
 <div>
