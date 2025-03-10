@@ -32,6 +32,10 @@ Results-driven Program Manager with extensive experience in IT project managemen
 | Collecting Digital Evidence | <a href="https://github.com/Mohammad-Firdhaus-Baharom/Shell-Scripting-Lab/blob/main/README.md">Shell Scripting Lab</a>| 
 | Collecting Digital Evidence | <a href="https://github.com/Mohammad-Firdhaus-Baharom/Collecting-Digital-Evidence-Lab">Collecting Digital Evidence Lab</a>| 
 
+## Capstone Projects
+- <a href="https://github.com/Mohammad-Firdhaus-Baharom/Cybersecurity-Bootcamp-Capstone-Project-">Cybersecurity-Bootcamp-Capstone-Project-Vertical Institute 2024</a>
+- SOC Automation Project
+  
 ## Tools
 ### Operating Systems
 <div>
@@ -45,6 +49,4 @@ Results-driven Program Manager with extensive experience in IT project managemen
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
 </div>
 
-## Capstone Projects
-- Detection Lab
-- SOC Automation Project
+
