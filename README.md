@@ -35,7 +35,7 @@ Results-driven Program Manager with extensive experience in IT project managemen
 ## Tools
 ### Operating Systems
 <div>
-    <img src="https://github.com/Mohammad-Firdhaus-Baharom/Mohammad-Firdhaus-Baharom/blob/main/ubuntu_BIG.png?raw=true" />
+    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
 </div>
