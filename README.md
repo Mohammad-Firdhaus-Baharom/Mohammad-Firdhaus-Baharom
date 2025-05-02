@@ -3,6 +3,10 @@
 
 Results-driven Program Manager with extensive experience in IT project management, grant administration, stakeholder engagement, and compliance management across public sector organizations. Skilled in designing processes, managing budgets, and coordinating strategic initiatives to achieve organizational goals. Adept at working independently and collaboratively in fast-paced environments. Recently completed a cybersecurity bootcamp to enhance expertise in risk management, governance, and security frameworks, complementing strong operational and compliance skills. Looking to leverage new skills for career transition into cyber security. 
 
+## Capstone Projects
+- <a href="https://github.com/Mohammad-Firdhaus-Baharom/Cybersecurity-Bootcamp-Capstone-Project-">Cybersecurity-Bootcamp-Capstone-Project-Vertical Institute 2024</a>
+- SOC Automation Project
+
 ## Skills
 - Network analysis and mapping – Wireshark & Nmap
 - Risk analysis and management
